@@ -1,0 +1,22 @@
+{
+  "name": "rew-sucker",
+  "version": "1.0.0",
+  "description": "Sucks the data out of a REW website",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Ramage",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.1.0",
+    "csv-parse": "^4.4.3",
+    "csv-parser": "^2.3.0",
+    "csvtojson": "^2.0.10",
+    "lodash": "^4.17.11",
+    "neat-csv": "^5.0.0",
+    "rc": "^1.2.8",
+    "request": "^2.88.0"
+  }
+}
