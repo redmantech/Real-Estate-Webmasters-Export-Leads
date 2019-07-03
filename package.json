@@ -1,7 +1,7 @@
 {
-  "name": "rew-sucker",
+  "name": "rew-export",
   "version": "1.0.0",
-  "description": "Sucks the data out of a REW website",
+  "description": "Export data out of a REW website",
   "main": "index.js",
   "bin": "index.js",
   "scripts": {
