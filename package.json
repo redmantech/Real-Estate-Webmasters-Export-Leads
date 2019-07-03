@@ -1,7 +1,7 @@
 {
   "name": "rew-export",
   "version": "1.0.0",
-  "description": "Export data out of a REW website",
+  "description": "Easily Export your REW Leads, Save Searches, Groups, Favorites in an easy to use formate to migrate to other Real Estate Website Providers. Like Redman, Brivity, or Blueroof.",
   "main": "index.js",
   "bin": "index.js",
   "scripts": {

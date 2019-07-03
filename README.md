@@ -1,7 +1,8 @@
 Real-Estate-Webmasters-Export-Leads
 ===========
 
-Gets all client and lead information out of a Real-Estate-Webmasters website
+Easily Export your REW Leads, Save Searches, Groups, Favorites in an easy to use formate to migrate to other Real Estate Website Providers. Like Redman, Brivity, or Blueroof.
+
 
 Install:
 --------
